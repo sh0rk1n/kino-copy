@@ -1,1 +1,1 @@
-# Копия [киносайта](https://kinomore.netlify.app/)
+# configured webpack
